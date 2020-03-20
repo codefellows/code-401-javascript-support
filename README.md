@@ -1,4 +1,4 @@
-# LAb Support
+# Lab Time Support
 
 ## Peer and TA Support for Code Fellows lab time
 
