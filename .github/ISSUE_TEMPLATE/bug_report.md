@@ -1,38 +1,45 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Lab Ticket
+about: Use this format to request TA assistnace during Lab
 title: ''
-labels: ''
+labels: 'New Ticket'
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# Describe the issue
 
-**To Reproduce**
+A clear and concise description of what you are stuck on, what's blocking you, a bug, or what questions you have:
+
+
+
+## To Reproduce
+
+How can we see the problem? 
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+1. When I go to '...'
+2. Then I click on '...'
+3. Scroll down to '...'
+4. I can tell there's a problem because: '...'
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Expected behavior
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+A clear and concise description of what you expected to happen:
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+
+## Actual behavior
+
+Is there an error? What is the exact error? What line number is it happening on? If applicable, add screenshots to help explain your problem.
+
+
+## Additional context
+
+What do you think the error message means? 
+
+What have you tried to do so far to fix this?
+
+What other info or context about the problem might help us understand it?
+
+
