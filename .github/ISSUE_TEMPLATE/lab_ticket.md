@@ -1,6 +1,6 @@
 ---
 name: Lab Ticket
-about: Use this format to request TA assistnace during Lab
+about: Use this format to request TA assistance during Lab
 title: ''
 labels: 'New Ticket'
 assignees: ''
