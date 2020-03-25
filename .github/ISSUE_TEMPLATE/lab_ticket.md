@@ -9,6 +9,8 @@ assignees: ''
 
 # Describe the issue
 
+*What are you working on? Class / lab number:* 
+
 *A clear and concise description of what you are stuck on, what's blocking you, a bug, or what questions you have:*
 
 
